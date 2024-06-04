@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(231, 210, 184);
+    background-color: rgb(255, 222, 173)
 }
 h1{
     font-family: Helvetica, sans-serif;
@@ -26,4 +26,24 @@ li,p{
 h3{
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box1{
+    display: inline-block;
+    margin: 40px ;
+    margin-left: 310px;
+
+}
+.box2{
+    display: inline-block;
+    margin: 40px;
+}
+.box3{
+    display: inline-block;
+    margin: 40px ;
+}
+.hh{
+    padding-top: 30px;
+    box-sizing: border-box;
+    font-size: 250%;
 }
